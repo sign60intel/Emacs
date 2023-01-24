@@ -1,0 +1,16 @@
+#+REVEAL_ROOT: https://cdn.jsdelivr.net/npm/reveal.js
+#+OPTIONS: num:nil toc:nil ^:nil
+#+OPTIONS: reveal_title_slide:"<h2>%t</h2>"
+#+REVEAL_TRANS: slide
+#+REVEAL_THEME: serif
+#+Title: Introduction to Reveal.js
+#+Author: Sergey V. Ignatov
+#+Email: sergign60@mail.ru
+
+* H1
+** #+REVEAL_TRANS: None/Fade/Slide/Convex/Concave/Zoom
+** #+REVEAL_THEME: Black/White/League/Sky/Beige/Simple/Serif/Blood/Night/Moon/Solarized
+* H2
+** H2.1
+*** H2.1.1
+* H3
